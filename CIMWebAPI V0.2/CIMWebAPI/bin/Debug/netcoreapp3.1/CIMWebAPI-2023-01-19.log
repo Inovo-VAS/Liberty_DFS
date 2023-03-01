@@ -1,0 +1,212 @@
+2023-01-19 09:10:30.0189||DEBUG|CIMWebAPI.Program|init main function 
+2023-01-19 09:10:31.5293||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-01-19 09:10:31.5293||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-01-19 09:10:31.5596||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty DFS\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI 
+2023-01-19 09:10:31.5757|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2.0 GET https://localhost:44341/   
+2023-01-19 09:10:31.6327||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Connection:close
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:44341
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+upgrade-insecure-requests:1
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ 
+2023-01-19 09:10:31.6839|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 110.9103ms 404  
+2023-01-19 09:10:51.0375||DEBUG|CIMWebAPI.Program|init main function 
+2023-01-19 09:10:52.2731||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2023-01-19 09:10:52.2928||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2023-01-19 09:10:52.2928||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-01-19 09:10:52.3089||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-01-19 09:10:52.3089||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty DFS\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI 
+2023-01-19 09:10:53.1292|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/   
+2023-01-19 09:10:53.1726||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:5001
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:1
+:method:GET
+:authority:localhost:5001
+:scheme:https
+:path:/
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ 
+2023-01-19 09:10:53.2450|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 116.5255ms 404  
+2023-01-19 09:54:12.6720||DEBUG|CIMWebAPI.Program|init main function 
+2023-01-19 09:54:14.3366||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2023-01-19 09:54:14.3797||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2023-01-19 09:54:14.4083||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-01-19 09:54:14.4466||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-01-19 09:54:14.4660||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty DFS\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI 
+2023-01-19 09:54:15.4672|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/   
+2023-01-19 09:54:15.5066||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:5001
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:1
+:method:GET
+:authority:localhost:5001
+:scheme:https
+:path:/
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ 
+2023-01-19 09:54:15.5649|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 98.5913ms 404  
+2023-01-19 09:55:17.6461|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/   
+2023-01-19 09:55:17.6604||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.5
+Host:localhost:5001
+TE:trailers
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Upgrade-Insecure-Requests:1
+:method:GET
+:path:/
+:authority:localhost:5001
+:scheme:https
+sec-fetch-dest:document
+sec-fetch-mode:navigate
+sec-fetch-site:none
+sec-fetch-user:?1
+Request body:
+ 
+2023-01-19 09:55:17.6860|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 40.2793ms 404  
+2023-01-19 09:55:17.7589|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/favicon.ico   
+2023-01-19 09:55:17.7589||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:image/avif,image/webp,*/*
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.5
+Host:localhost:5001
+Referer:https://localhost:5001/
+TE:trailers
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+:method:GET
+:path:/favicon.ico
+:authority:localhost:5001
+:scheme:https
+sec-fetch-dest:image
+sec-fetch-mode:no-cors
+sec-fetch-site:same-origin
+Request body:
+ 
+2023-01-19 09:55:17.8094|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 48.0822ms 404  
+2023-01-19 09:56:09.1439|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/QueuePhone/   
+2023-01-19 09:56:09.1654||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.5
+Host:localhost:5001
+TE:trailers
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Upgrade-Insecure-Requests:1
+:method:GET
+:path:/QueuePhone/
+:authority:localhost:5001
+:scheme:https
+sec-fetch-dest:document
+sec-fetch-mode:navigate
+sec-fetch-site:none
+sec-fetch-user:?1
+Request body:
+ 
+2023-01-19 09:56:09.2127|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2023-01-19 09:56:09.2127|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2023-01-19 09:56:09.2373|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 93.9813ms 405  
+2023-01-19 09:56:13.4710|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/QueuePhone   
+2023-01-19 09:56:13.4855||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.5
+Host:localhost:5001
+TE:trailers
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Upgrade-Insecure-Requests:1
+:method:GET
+:path:/QueuePhone
+:authority:localhost:5001
+:scheme:https
+sec-fetch-dest:document
+sec-fetch-mode:navigate
+sec-fetch-site:none
+sec-fetch-user:?1
+Request body:
+ 
+2023-01-19 09:56:13.5128|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2023-01-19 09:56:13.5270|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2023-01-19 09:56:13.5412|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 70.5239ms 405  
+2023-01-19 09:56:47.9760|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/QueuePhone   
+2023-01-19 09:56:48.0069||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:5001
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:1
+:method:GET
+:authority:localhost:5001
+:scheme:https
+:path:/QueuePhone
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ 
+2023-01-19 09:56:48.0449|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2023-01-19 09:56:48.0568|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2023-01-19 09:56:48.0568|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 93.1482ms 405  
+2023-01-19 09:56:53.1143|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/QueuePhone   
+2023-01-19 09:56:53.1258||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.5
+Host:localhost:5001
+TE:trailers
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Upgrade-Insecure-Requests:1
+:method:GET
+:path:/QueuePhone
+:authority:localhost:5001
+:scheme:https
+sec-fetch-dest:document
+sec-fetch-mode:navigate
+sec-fetch-site:none
+sec-fetch-user:?1
+Request body:
+ 
+2023-01-19 09:56:53.1480|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2023-01-19 09:56:53.1605|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2023-01-19 09:56:53.1742|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 59.6706ms 405  

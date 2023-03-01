@@ -1,0 +1,173 @@
+2023-01-19 09:10:30.0189||DEBUG|CIMWebAPI.Program|init main function |url: |action: 
+2023-01-19 09:10:31.6327||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Connection:close
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:44341
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+upgrade-insecure-requests:1
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ |url: https://localhost/|action: 
+2023-01-19 09:10:51.0375||DEBUG|CIMWebAPI.Program|init main function |url: |action: 
+2023-01-19 09:10:53.1726||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:5001
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:1
+:method:GET
+:authority:localhost:5001
+:scheme:https
+:path:/
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ |url: https://localhost/|action: 
+2023-01-19 09:54:12.6720||DEBUG|CIMWebAPI.Program|init main function |url: |action: 
+2023-01-19 09:54:15.5066||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:5001
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:1
+:method:GET
+:authority:localhost:5001
+:scheme:https
+:path:/
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ |url: https://localhost/|action: 
+2023-01-19 09:55:17.6604||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.5
+Host:localhost:5001
+TE:trailers
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Upgrade-Insecure-Requests:1
+:method:GET
+:path:/
+:authority:localhost:5001
+:scheme:https
+sec-fetch-dest:document
+sec-fetch-mode:navigate
+sec-fetch-site:none
+sec-fetch-user:?1
+Request body:
+ |url: https://localhost/|action: 
+2023-01-19 09:55:17.7589||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:image/avif,image/webp,*/*
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.5
+Host:localhost:5001
+Referer:https://localhost:5001/
+TE:trailers
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+:method:GET
+:path:/favicon.ico
+:authority:localhost:5001
+:scheme:https
+sec-fetch-dest:image
+sec-fetch-mode:no-cors
+sec-fetch-site:same-origin
+Request body:
+ |url: https://localhost/favicon.ico|action: 
+2023-01-19 09:56:09.1654||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.5
+Host:localhost:5001
+TE:trailers
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Upgrade-Insecure-Requests:1
+:method:GET
+:path:/QueuePhone/
+:authority:localhost:5001
+:scheme:https
+sec-fetch-dest:document
+sec-fetch-mode:navigate
+sec-fetch-site:none
+sec-fetch-user:?1
+Request body:
+ |url: https://localhost/QueuePhone/|action: 
+2023-01-19 09:56:13.4855||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.5
+Host:localhost:5001
+TE:trailers
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Upgrade-Insecure-Requests:1
+:method:GET
+:path:/QueuePhone
+:authority:localhost:5001
+:scheme:https
+sec-fetch-dest:document
+sec-fetch-mode:navigate
+sec-fetch-site:none
+sec-fetch-user:?1
+Request body:
+ |url: https://localhost/QueuePhone|action: 
+2023-01-19 09:56:48.0069||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:5001
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:1
+:method:GET
+:authority:localhost:5001
+:scheme:https
+:path:/QueuePhone
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ |url: https://localhost/QueuePhone|action: 
+2023-01-19 09:56:53.1258||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.5
+Host:localhost:5001
+TE:trailers
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Upgrade-Insecure-Requests:1
+:method:GET
+:path:/QueuePhone
+:authority:localhost:5001
+:scheme:https
+sec-fetch-dest:document
+sec-fetch-mode:navigate
+sec-fetch-site:none
+sec-fetch-user:?1
+Request body:
+ |url: https://localhost/QueuePhone|action: 

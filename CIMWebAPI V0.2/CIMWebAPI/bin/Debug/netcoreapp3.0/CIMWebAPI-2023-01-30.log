@@ -1,0 +1,6 @@
+2023-01-30 11:45:22.0780||DEBUG|CIMWebAPI.Program|init main function 
+2023-01-30 11:45:23.7160||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2023-01-30 11:45:23.7160||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2023-01-30 11:45:23.7160||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-01-30 11:45:23.7160||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-01-30 11:45:23.7160||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty DFS\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI 
