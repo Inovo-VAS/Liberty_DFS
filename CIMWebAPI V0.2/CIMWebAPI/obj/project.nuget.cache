@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U55as9u4o2J2qJ4xmz2zf0NFg7PyxovJm1msn2NkKE7UKBXymuTr/VGkQI0NolC9Mqcn4AXS77WLnohvvf98RQ==",
+  "dgSpecHash": "6j2XW8IWm9ZYbC0b+rLzcrkkzPqzM8WPWmyEM+C65V8/jK1M3skMxV9HTki6Uvx6X9+GWgvjrE67cfcRSajfKg==",
   "success": true,
-  "projectFilePath": "C:\\projects\\inovo\\WaldoCode\\Waldo Code\\0.Development\\Liberty DFS\\CIMWebAPI V0.2\\CIMWebAPI V0.2\\CIMWebAPI\\CIMWebAPI.csproj",
+  "projectFilePath": "C:\\GitHub\\Liberty_DFS\\CIMWebAPI V0.2\\CIMWebAPI\\CIMWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evert\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\evert\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

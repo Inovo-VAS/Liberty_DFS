@@ -8395,11 +8395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\inovo\\WaldoCode\\Waldo Code\\0.Development\\Liberty DFS\\CIMWebAPI V0.2\\CIMWebAPI V0.2\\CIMWebAPI\\CIMWebAPI.csproj",
+      "projectUniqueName": "C:\\GitHub\\Liberty_DFS\\CIMWebAPI V0.2\\CIMWebAPI\\CIMWebAPI.csproj",
       "projectName": "CIMWebAPI",
-      "projectPath": "C:\\projects\\inovo\\WaldoCode\\Waldo Code\\0.Development\\Liberty DFS\\CIMWebAPI V0.2\\CIMWebAPI V0.2\\CIMWebAPI\\CIMWebAPI.csproj",
+      "projectPath": "C:\\GitHub\\Liberty_DFS\\CIMWebAPI V0.2\\CIMWebAPI\\CIMWebAPI.csproj",
       "packagesPath": "C:\\Users\\evert\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\inovo\\WaldoCode\\Waldo Code\\0.Development\\Liberty DFS\\CIMWebAPI V0.2\\CIMWebAPI V0.2\\CIMWebAPI\\obj\\",
+      "outputPath": "C:\\GitHub\\Liberty_DFS\\CIMWebAPI V0.2\\CIMWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evert\\AppData\\Roaming\\NuGet\\NuGet.Config",
